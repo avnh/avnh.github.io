@@ -838,7 +838,7 @@ nav .link-title:last-child {
   text-align: left; }
 
 .logo {
-  font-family: nyty;
+  font-family: 'Open Sans', sans-serif;;
   font-size: 23px;
   font-style: normal;
   font-weight: 700;
@@ -856,7 +856,7 @@ nav .link-title:last-child {
     font-weight: 700; }
 
 .logo-secondary {
-  font-family: nyty;
+  font-family: 'Open Sans', sans-serif;;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -881,7 +881,7 @@ nav {
   width: 30%; }
   nav .gallery-title a {
     color: #a9a9a9;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 17px;
     font-style: normal;
     font-weight: 500;
@@ -896,7 +896,7 @@ nav {
       font-weight: 600; }
   nav .project-title a {
     color: #a9a9a9;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 17px;
     font-style: normal;
     font-weight: 500;
@@ -911,7 +911,7 @@ nav {
       font-weight: 600; }
   nav .page-title a {
     color: #a9a9a9;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 17px;
     font-style: normal;
     font-weight: 500;
@@ -926,7 +926,7 @@ nav {
       font-weight: 600; }
   nav .link-title a {
     color: #a9a9a9;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 17px;
     font-style: normal;
     font-weight: 500;
@@ -1056,7 +1056,7 @@ nav {
     display: none; }
   .masthead h1 {
     color: #ffffff;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 50px;
     font-style: normal;
     font-weight: bold;
@@ -1067,7 +1067,7 @@ nav {
     text-transform: none; }
   .masthead p {
     color: #a9a9a9;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 16px;
     font-style: normal;
     font-weight: normal;
@@ -1144,7 +1144,7 @@ nav {
     padding-top: 16px; } }
 
 .site-footer {
-  font-family: nyty;
+  font-family: 'Open Sans', sans-serif;;
   font-size: 15px;
   font-style: normal;
   font-weight: 400;
@@ -1175,7 +1175,7 @@ nav {
     padding-top: 41px; } }
 
 .cookie-banner {
-  font-family: nyty;
+  font-family: 'Open Sans', sans-serif;;
   width: 100%; }
   .cookie-banner .close-btn {
     cursor: pointer; }
@@ -1183,7 +1183,7 @@ nav {
 .lightbox-content {
   height: 100%; }
   .lightbox-content .grid__image-caption {
-    font-family: nyty; }
+    font-family: 'Open Sans', sans-serif;; }
 
 #lightbox-wrap,
 #lightbox-inner-wrap {
@@ -1191,7 +1191,7 @@ nav {
 
 .grid__image-caption,
 .grid__image-caption-lightbox {
-  font-family: nyty; }
+  font-family: 'Open Sans', sans-serif;; }
 
 .site-content {
   margin-left: 2%;
@@ -2008,7 +2008,7 @@ nav {
 
 .other-projects-title {
   color: #eeeeee;
-  font-family: nyty;
+  font-family: 'Open Sans', sans-serif;;
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -2052,7 +2052,7 @@ nav {
   width: 100%; }
   .page-header .title {
     color: #eeeeee;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 25px;
     font-style: normal;
     font-weight: 700;
@@ -2064,7 +2064,7 @@ nav {
     width: 100%; }
   .page-header .description {
     color: #a9a9a9;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -2076,7 +2076,7 @@ nav {
     width: 100%; }
   .page-header .date {
     color: #a9a9a9;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 14px;
     font-style: normal;
     font-weight: 700;
@@ -2088,7 +2088,7 @@ nav {
     width: 100%; }
   .page-header .custom1 {
     color: #a9a9a9;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -2100,7 +2100,7 @@ nav {
     width: 100%; }
   .page-header .custom2 {
     color: #a9a9a9;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -2299,7 +2299,7 @@ nav {
 
 .splash-modules .rich-text .title {
   color: #ffffff;
-  font-family: nyty;
+  font-family: 'Open Sans', sans-serif;;
   font-size: 70px;
   font-style: normal;
   font-weight: 700;
@@ -2311,7 +2311,7 @@ nav {
 
 .splash-modules .rich-text .sub-title {
   color: #ffffff;
-  font-family: nyty;
+  font-family: 'Open Sans', sans-serif;;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -2325,7 +2325,7 @@ nav {
 .splash-modules .rich-text div,
 .splash-modules .rich-text p {
   color: #a9a9a9;
-  font-family: nyty;
+  font-family: 'Open Sans', sans-serif;;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2348,7 +2348,7 @@ nav {
 .splash-modules .module-caption div,
 .splash-modules .module-caption p {
   color: #a9a9a9;
-  font-family: nyty;
+  font-family: 'Open Sans', sans-serif;;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -2561,7 +2561,7 @@ nav {
 
 .standard-modules .rich-text .title {
   color: #ffffff;
-  font-family: nyty;
+  font-family: 'Open Sans', sans-serif;;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -2573,7 +2573,7 @@ nav {
 
 .standard-modules .rich-text .sub-title {
   color: #ffffff;
-  font-family: nyty;
+  font-family: 'Open Sans', sans-serif;;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -2587,7 +2587,7 @@ nav {
 .standard-modules .rich-text div,
 .standard-modules .rich-text p {
   color: #a9a9a9;
-  font-family: nyty;
+  font-family: 'Open Sans', sans-serif;;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2610,7 +2610,7 @@ nav {
 .standard-modules .module-caption div,
 .standard-modules .module-caption p {
   color: #a9a9a9;
-  font-family: nyty;
+  font-family: 'Open Sans', sans-serif;;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -2827,7 +2827,7 @@ nav {
   .other-projects .project-cover .title {
     color: #ffffff;
     float: none;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 14px;
     font-style: normal;
     font-weight: 500;
@@ -2843,7 +2843,7 @@ nav {
   .other-projects .project-cover .date {
     color: #a9a9a9;
     float: none;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
@@ -2859,7 +2859,7 @@ nav {
   .other-projects .project-cover .custom1 {
     color: #a9a9a9;
     float: none;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
@@ -2875,7 +2875,7 @@ nav {
   .other-projects .project-cover .custom2 {
     color: #a9a9a9;
     float: none;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
@@ -2891,7 +2891,7 @@ nav {
   .other-projects .project-cover .description {
     color: #a9a9a9;
     float: none;
-    font-family: nyty;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
